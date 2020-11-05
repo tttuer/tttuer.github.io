@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "여우와펭귄"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "여우와펭귄의 블로그"
   links:
     - label: "Tistory"
       icon: "fas fa-fw fa-link"
